@@ -1,0 +1,55 @@
+logged_at,terminal,name,lane,is_open,wait_seconds,wait_minutes,analysis_wait_minutes,wait_label,open_time,close_time,last_updated_timestamp,attributes
+2026-03-26T06:07:07Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T06:07:07Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T06:07:07Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T06:09:20Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T06:09:20Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T06:09:20Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T06:14:34Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T06:14:34Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T06:14:34Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T06:19:17Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T06:19:17Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T06:19:17Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T06:24:18Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T06:24:18Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T06:24:18Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T06:29:26Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T06:29:26Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T06:29:26Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T06:34:29Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T06:34:29Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T06:34:29Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T06:39:26Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T06:39:26Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T06:39:26Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T06:44:25Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T06:44:25Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T06:44:25Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T06:47:41Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T06:47:41Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T06:47:41Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T06:59:17Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T06:59:17Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T06:59:17Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T07:14:18Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T07:14:18Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T07:14:18Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T07:29:16Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T07:29:16Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T07:29:16Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T07:44:18Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T07:44:18Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T07:44:18Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T07:59:20Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T07:59:20Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T07:59:20Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T08:05:34Z,Terminal A South,IAH Terminal A South,main,True,180,3,10,Less than 10,03:00,23:00,1774497727,
+2026-03-26T08:05:34Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T08:05:34Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T08:14:15Z,Terminal A South,IAH Terminal A South,main,True,960,16,16,16 minutes,03:00,23:00,1774512728,
+2026-03-26T08:14:15Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T08:14:15Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
+2026-03-26T08:14:18Z,Terminal A South,IAH Terminal A South,main,True,960,16,16,16 minutes,03:00,23:00,1774512728,
+2026-03-26T08:14:18Z,Terminal E,IAH Terminal E,main,True,300,5,10,Less than 10,04:00,23:59,1774500967,
+2026-03-26T08:14:18Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774480512,fis
