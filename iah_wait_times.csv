@@ -383,3 +383,6 @@ logged_at,terminal,name,lane,is_open,wait_seconds,wait_minutes,analysis_wait_min
 2026-03-27T18:51:42Z,Terminal A South,IAH Terminal A South,main,True,9000,150,150,150 minutes,03:00,23:00,1774635187,
 2026-03-27T18:51:42Z,Terminal E,IAH Terminal E,main,True,9000,150,150,150 minutes,04:00,23:59,1774631948,
 2026-03-27T18:51:42Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,240,4,4,4 min,00:00,23:59,1774619228,fis
+2026-03-27T19:06:32Z,Terminal A South,IAH Terminal A South,main,True,9000,150,150,150 minutes,03:00,23:00,1774635187,
+2026-03-27T19:06:32Z,Terminal E,IAH Terminal E,main,True,8400,140,140,140 minutes,04:00,23:59,1774638011,
+2026-03-27T19:06:32Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1774619768,fis
