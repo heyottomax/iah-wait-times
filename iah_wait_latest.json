@@ -1,5 +1,5 @@
 {
-  "logged_at": "2026-03-27T02:21:34Z",
+  "logged_at": "2026-03-27T02:36:36Z",
   "source": "https://api.houstonairports.mobi/wait-times/checkpoint/iah",
   "count": 3,
   "rows": [
@@ -13,17 +13,17 @@
     },
     {
       "terminal": "Terminal E",
-      "wait_label": "40 minutes",
-      "wait_minutes": 40,
-      "analysis_wait_minutes": 40,
+      "wait_label": "18 minutes",
+      "wait_minutes": 18,
+      "analysis_wait_minutes": 18,
       "is_open": true,
       "name": "IAH Terminal E"
     },
     {
       "terminal": "Int'l Arrivals Customs Checkpoint",
-      "wait_label": "4 min",
-      "wait_minutes": 4,
-      "analysis_wait_minutes": 4,
+      "wait_label": "2 min",
+      "wait_minutes": 2,
+      "analysis_wait_minutes": 2,
       "is_open": true,
       "name": "Int'l Arrivals Customs Checkpoint"
     }
