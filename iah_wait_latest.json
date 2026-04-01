@@ -1,5 +1,5 @@
 {
-  "logged_at": "2026-04-01T01:36:34Z",
+  "logged_at": "2026-04-01T01:51:34Z",
   "source": "https://api.houstonairports.mobi/wait-times/checkpoint/iah",
   "count": 3,
   "rows": [
@@ -21,9 +21,9 @@
     },
     {
       "terminal": "Int'l Arrivals Customs Checkpoint",
-      "wait_label": "16 min",
-      "wait_minutes": 16,
-      "analysis_wait_minutes": 16,
+      "wait_label": "11 min",
+      "wait_minutes": 11,
+      "analysis_wait_minutes": 11,
       "is_open": true,
       "name": "Int'l Arrivals Customs Checkpoint"
     }
