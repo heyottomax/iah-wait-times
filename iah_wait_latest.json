@@ -1,13 +1,13 @@
 {
-  "logged_at": "2026-04-03T10:24:34Z",
+  "logged_at": "2026-04-03T10:39:34Z",
   "source": "https://api.houstonairports.mobi/wait-times/checkpoint/iah",
   "count": 9,
   "rows": [
     {
       "terminal": "Terminal A North Standard",
-      "wait_label": "14 minutes",
-      "wait_minutes": 14,
-      "analysis_wait_minutes": 14,
+      "wait_label": "16 minutes",
+      "wait_minutes": 16,
+      "analysis_wait_minutes": 16,
       "is_open": true,
       "name": "IAH Terminal A North Standard"
     },
@@ -21,9 +21,9 @@
     },
     {
       "terminal": "Terminal A South Standard",
-      "wait_label": "25 minutes",
-      "wait_minutes": 25,
-      "analysis_wait_minutes": 25,
+      "wait_label": "23 minutes",
+      "wait_minutes": 23,
+      "analysis_wait_minutes": 23,
       "is_open": true,
       "name": "IAH Terminal A South Standard"
     },
@@ -38,23 +38,23 @@
     {
       "terminal": "Terminal C North Premier",
       "wait_label": "Less than 10",
-      "wait_minutes": 6,
+      "wait_minutes": 8,
       "analysis_wait_minutes": 10,
       "is_open": true,
       "name": "IAH Terminal C North Premier"
     },
     {
       "terminal": "Terminal C South Standard",
-      "wait_label": "13 minutes",
-      "wait_minutes": 13,
-      "analysis_wait_minutes": 13,
+      "wait_label": "18 minutes",
+      "wait_minutes": 18,
+      "analysis_wait_minutes": 18,
       "is_open": true,
       "name": "IAH Terminal C South Standard"
     },
     {
       "terminal": "Terminal E Standard",
       "wait_label": "Less than 10",
-      "wait_minutes": 7,
+      "wait_minutes": 8,
       "analysis_wait_minutes": 10,
       "is_open": true,
       "name": "IAH Terminal E Standard"
@@ -69,9 +69,9 @@
     },
     {
       "terminal": "Int'l Arrivals Customs Checkpoint",
-      "wait_label": "2 min",
-      "wait_minutes": 2,
-      "analysis_wait_minutes": 2,
+      "wait_label": "7 min",
+      "wait_minutes": 7,
+      "analysis_wait_minutes": 7,
       "is_open": true,
       "name": "Int'l Arrivals Customs Checkpoint"
     }
