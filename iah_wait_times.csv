@@ -3103,3 +3103,12 @@ logged_at,terminal,name,lane,is_open,wait_seconds,wait_minutes,analysis_wait_min
 2026-04-03T13:09:29Z,Terminal E Standard,IAH Terminal E Standard,main,True,540,9,10,Less than 10,04:00,23:59,1775221628,
 2026-04-03T13:09:29Z,Terminal E PreCheck,IAH Terminal E PreCheck,main,True,300,5,10,Less than 10,04:00,19:30,1775217367,tsa-pre
 2026-04-03T13:09:29Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,360,6,6,6 min,00:00,23:59,1775203628,fis
+2026-04-03T13:24:30Z,Terminal A North Standard,IAH Terminal A North Standard,main,True,240,4,10,Less than 10,03:15,19:15,1775222528,"clear,tsa-pre"
+2026-04-03T13:24:30Z,Terminal A North PreCheck,IAH Terminal A North PreCheck,main,True,180,3,10,Less than 10,04:00,18:00,1775218628,tsa-pre
+2026-04-03T13:24:30Z,Terminal A South Standard,IAH Terminal A South Standard,main,True,300,5,10,Less than 10,03:00,23:00,1775222468,
+2026-04-03T13:24:30Z,Terminal C North PreCheck,IAH Terminal C North PreCheck,main,True,180,3,10,Less than 10,04:00,22:00,1775222528,tsa-pre
+2026-04-03T13:24:30Z,Terminal C North Premier,IAH Terminal C North Premier,main,True,480,8,10,Less than 10,04:00,22:00,1775222528,
+2026-04-03T13:24:30Z,Terminal C South Standard,IAH Terminal C South Standard,main,True,780,13,13,13 minutes,04:00,19:30,1775222528,clear
+2026-04-03T13:24:30Z,Terminal E Standard,IAH Terminal E Standard,main,True,480,8,10,Less than 10,04:00,23:59,1775222528,
+2026-04-03T13:24:30Z,Terminal E PreCheck,IAH Terminal E PreCheck,main,True,300,5,10,Less than 10,04:00,19:30,1775217367,tsa-pre
+2026-04-03T13:24:30Z,Int'l Arrivals Customs Checkpoint,Int'l Arrivals Customs Checkpoint,FIS,True,120,2,2,2 min,00:00,23:59,1775204348,fis
