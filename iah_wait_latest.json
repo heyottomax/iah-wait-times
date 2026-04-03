@@ -1,13 +1,13 @@
 {
-  "logged_at": "2026-04-03T10:54:29Z",
+  "logged_at": "2026-04-03T11:09:35Z",
   "source": "https://api.houstonairports.mobi/wait-times/checkpoint/iah",
   "count": 9,
   "rows": [
     {
       "terminal": "Terminal A North Standard",
-      "wait_label": "19 minutes",
-      "wait_minutes": 19,
-      "analysis_wait_minutes": 19,
+      "wait_label": "12 minutes",
+      "wait_minutes": 12,
+      "analysis_wait_minutes": 12,
       "is_open": true,
       "name": "IAH Terminal A North Standard"
     },
@@ -21,40 +21,40 @@
     },
     {
       "terminal": "Terminal A South Standard",
-      "wait_label": "22 minutes",
-      "wait_minutes": 22,
-      "analysis_wait_minutes": 22,
+      "wait_label": "16 minutes",
+      "wait_minutes": 16,
+      "analysis_wait_minutes": 16,
       "is_open": true,
       "name": "IAH Terminal A South Standard"
     },
     {
       "terminal": "Terminal C North PreCheck",
-      "wait_label": "Less than 10",
-      "wait_minutes": 9,
+      "wait_label": "10 minutes",
+      "wait_minutes": 10,
       "analysis_wait_minutes": 10,
       "is_open": true,
       "name": "IAH Terminal C North PreCheck"
     },
     {
       "terminal": "Terminal C North Premier",
-      "wait_label": "13 minutes",
-      "wait_minutes": 13,
-      "analysis_wait_minutes": 13,
+      "wait_label": "12 minutes",
+      "wait_minutes": 12,
+      "analysis_wait_minutes": 12,
       "is_open": true,
       "name": "IAH Terminal C North Premier"
     },
     {
       "terminal": "Terminal C South Standard",
-      "wait_label": "17 minutes",
-      "wait_minutes": 17,
-      "analysis_wait_minutes": 17,
+      "wait_label": "18 minutes",
+      "wait_minutes": 18,
+      "analysis_wait_minutes": 18,
       "is_open": true,
       "name": "IAH Terminal C South Standard"
     },
     {
       "terminal": "Terminal E Standard",
       "wait_label": "Less than 10",
-      "wait_minutes": 9,
+      "wait_minutes": 8,
       "analysis_wait_minutes": 10,
       "is_open": true,
       "name": "IAH Terminal E Standard"
@@ -62,16 +62,16 @@
     {
       "terminal": "Terminal E PreCheck",
       "wait_label": "Less than 10",
-      "wait_minutes": 5,
+      "wait_minutes": 6,
       "analysis_wait_minutes": 10,
       "is_open": true,
       "name": "IAH Terminal E PreCheck"
     },
     {
       "terminal": "Int'l Arrivals Customs Checkpoint",
-      "wait_label": "8 min",
-      "wait_minutes": 8,
-      "analysis_wait_minutes": 8,
+      "wait_label": "6 min",
+      "wait_minutes": 6,
+      "analysis_wait_minutes": 6,
       "is_open": true,
       "name": "Int'l Arrivals Customs Checkpoint"
     }
